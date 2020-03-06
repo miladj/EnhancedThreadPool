@@ -1,6 +1,6 @@
 # EnhancedThreadPool
 ![.NET Core](https://github.com/miladj/EnhancedThreadPool/workflows/.NET%20Core/badge.svg)<br/>
-This library add some functionality to default dotnet thread pool.
+This library add some functionality to default dotnet threadpool's features.
 * Benefits:
   * It is not static so you can have multiple threadpool.
   * It allows you to have different group in a single threadpool.
